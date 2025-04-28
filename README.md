@@ -1,0 +1,2 @@
+# szamitogepes_tervezes
+Számítógéppel támogatott tervezés kurzus projektmunkája
